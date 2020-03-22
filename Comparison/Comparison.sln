@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Basic Express 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Comparison", "Comparison\Comparison.vbproj", "{C93B0F95-2EA0-4228-9F61-2B698371196C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93B0F95-2EA0-4228-9F61-2B698371196C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93B0F95-2EA0-4228-9F61-2B698371196C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93B0F95-2EA0-4228-9F61-2B698371196C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93B0F95-2EA0-4228-9F61-2B698371196C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
